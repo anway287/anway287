@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anway287
 - I’m interested in frontend, backend and data roles
-- I’m looking for Summer 2024 internship jobs in USA 
-- 📫 How to reach me ... gmail: anwayatkekar1@gmail.com
+- I’m looking for Fulltime job opportunities in USA 
+- 📫 How to reach me ... gmail: aatkekar@binghamton.edu
   
 
 <!---
