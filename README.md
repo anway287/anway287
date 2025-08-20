@@ -39,12 +39,12 @@ Built with Node.js, Express, MongoDB, Tailwind, JWT, Jasmine tests.
 
 **Anime Sentiment Tracker**  
 Built an ETL pipeline + Django dashboard to track weekly anime sentiment from 8,000+ points.  
-Processed and visualized data using Python, MongoDB, Docker, Matplotlib, Seaborn.
+Processed and visualized data using Python, MongoDB, Docker, Matplotlib, Seaborn. 
 [GitHub Repo](https://github.com/anway287/Anime-Popularity-Dashboard)
 
 ## Contact
 
-📧 Email: aatkekar@binghamton.edu  
+📧 Email: anwayatkekar1@gmail.com 
 🔗 LinkedIn: [linkedin.com/in/anway-atkekar](https://linkedin.com/in/anway-atkekar)  
 📂 GitHub: [github.com/anway287](https://github.com/anway287)
 
