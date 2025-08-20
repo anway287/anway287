@@ -13,7 +13,7 @@ I'm looking for full-time roles in the U.S. — backend, frontend, or data-focus
 
 ## Experience
 
-**Bright Power – Data Benchmarking Intern (NYC)**  
+**Bright Power – Software Engineer - Data Benchmarking Intern (NYC)**  
 Automated utility data uploads into Salesforce using Python + SQL for 100+ buildings.  
 Wrote scripts to validate and clean clean energy benchmarking data — sped up reviews by 40%.
 
@@ -40,6 +40,7 @@ Built with Node.js, Express, MongoDB, Tailwind, JWT, Jasmine tests.
 **Anime Sentiment Tracker**  
 Built an ETL pipeline + Django dashboard to track weekly anime sentiment from 8,000+ points.  
 Processed and visualized data using Python, MongoDB, Docker, Matplotlib, Seaborn.
+[GitHub Repo](https://github.com/anway287/Anime-Popularity-Dashboard)
 
 ## Contact
 
