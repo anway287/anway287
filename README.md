@@ -57,56 +57,6 @@
 
 ---
 
-### 💼 Experience
-
-<table width="100%">
-  <tr>
-    <td><b>Bright Power</b> &nbsp;·&nbsp; Software Engineer</td>
-    <td align="right"><code>Manhattan, NY</code> &nbsp; <sub>Jun 2025 – Present</sub></td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <ul>
-        <li>Migrated a legacy compliance dashboard to a <b>React + TypeScript</b> SPA — cut page load by <b>40%</b> across 1000+ properties</li>
-        <li>Built <b>20+ reusable TypeScript components</b> with custom hooks & context, enabling 3 teams to ship features independently</li>
-        <li>Designed <b>Node.js + Python</b> backend services with REST APIs for utility data ingestion — reduced monthly review turnaround by <b>60%</b></li>
-        <li>Integrated AI-assisted document parsing into the frontend pipeline, extracting structured fields from unstructured utility PDFs</li>
-        <li>Wrote unit & integration tests covering critical flows — reduced production bug reports by ~<b>30%</b> over two release cycles</li>
-      </ul>
-    </td>
-  </tr>
-  <tr><td colspan="2"></td></tr>
-  <tr>
-    <td><b>Oigetit.AI</b> &nbsp;·&nbsp; Software Engineer Intern</td>
-    <td align="right"><code>Los Gatos, CA</code> &nbsp; <sub>Jun 2024 – Aug 2024</sub></td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <ul>
-        <li>Built frontend UI components and auth screens in <b>JavaScript + React</b>, owning features from design through delivery</li>
-        <li>Added <b>JUnit</b> test coverage and integrated automated tests into <b>CI</b> pipelines to catch regressions pre-release</li>
-      </ul>
-    </td>
-  </tr>
-  <tr><td colspan="2"></td></tr>
-  <tr>
-    <td><b>Vodafone</b> &nbsp;·&nbsp; Software Engineer</td>
-    <td align="right"><code>Pune, India</code> &nbsp; <sub>Aug 2021 – Jul 2023</sub></td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <ul>
-        <li>Engineered <b>15+ reusable Web Components</b> with Shadow DOM & TypeScript for enterprise billing portals serving <b>5K+ users</b></li>
-        <li>Built <b>Node.js + Express</b> services with <b>PostgreSQL</b> — refactored slow query paths, cutting API response time by ~<b>200ms</b></li>
-        <li>Shipped end-to-end features in <b>React + TypeScript</b>, contributed to a multistage <b>AWS CI/CD</b> pipeline with zero-downtime deploys</li>
-        <li>Built <b>Kafka</b>-based event pipelines for real-time billing processing, enabling async workflows and reducing system downtime</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🚀 Projects
 
 <table>
@@ -141,6 +91,19 @@
     <td>ETL pipeline · 8,000+ weekly data points · dashboards</td>
   </tr>
 </table>
+
+---
+
+### 💼 Experience
+
+**Bright Power** · Software Engineer &nbsp; `Manhattan, NY` &nbsp; <sub>Jun 2025 – Present</sub>
+> React + TypeScript SPA, Node.js/Python backend services, AI-assisted PDF parsing for 1000+ properties
+
+**Oigetit.AI** · Software Engineer Intern &nbsp; `Los Gatos, CA` &nbsp; <sub>Jun 2024 – Aug 2024</sub>
+> React/JS frontend components, JUnit test coverage integrated into CI pipelines
+
+**Vodafone** · Software Engineer &nbsp; `Pune, India` &nbsp; <sub>Aug 2021 – Jul 2023</sub>
+> Web Components + TypeScript for 5K+ enterprise users, Kafka event pipelines, AWS CI/CD
 
 ---
 
