@@ -14,7 +14,8 @@
 
 ### About Me
 
-- MS in Computer Science — **Binghamton University** (May 2025)
+- 3+ years of experience
+- MS in Computer Science **Binghamton University** (May 2025)
 - Currently based in **Sunnyvale, CA**
 - Open to full-time roles: **Frontend · Backend · Full-Stack**
 - I like building things that actually work at scale
