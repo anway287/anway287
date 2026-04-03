@@ -14,14 +14,14 @@
 
 ### About Me
 
-- MS in Computer Science **Binghamton University** (May 2025)
+- MS in Computer Science — **Binghamton University** (May 2025)
 - Currently based in **Sunnyvale, CA**
-- Open to full-time roles: **Frontend · Backend · Full-Stack
+- Open to full-time roles: **Frontend · Backend · Full-Stack**
 - I like building things that actually work at scale
 
 ---
 
-### Tech Stack
+### 🛠 Tech Stack
 
 <div align="center">
 
@@ -56,40 +56,81 @@
 
 ---
 
-### Experience
+### 💼 Experience
 
-**Vodafone · Software Engineer** `India`
-> Backend microservices with Spring Boot, Kafka, Redis, Docker · Cut batch processing time by **35%** · AWS deployments via CI/CD
-
-**Bright Power · Software Engineer Intern** `New York, NY`
-> Automated utility data uploads to Salesforce (Python + SQL) for 100+ buildings · Sped up clean energy benchmarking reviews by **40%**
-
-**Oigetit.AI · Software QA Intern** `CA`
-> JUnit testing in CI pipeline (TDD) · API schema design · Cut deployment time by **40%**
+<table>
+  <tr>
+    <td><b>Vodafone</b> · Software Engineer</td>
+    <td align="right"><code>India</code></td>
+  </tr>
+  <tr>
+    <td colspan="2">Backend microservices with Spring Boot, Kafka, Redis, Docker &nbsp;·&nbsp; Cut batch processing time by <b>35%</b> &nbsp;·&nbsp; AWS deployments via CI/CD</td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td><b>Bright Power</b> · Software Engineer Intern</td>
+    <td align="right"><code>New York, NY</code></td>
+  </tr>
+  <tr>
+    <td colspan="2">Automated utility data uploads to Salesforce (Python + SQL) for 100+ buildings &nbsp;·&nbsp; Sped up clean energy benchmarking reviews by <b>40%</b></td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td><b>Oigetit.AI</b> · Software QA Intern</td>
+    <td align="right"><code>CA</code></td>
+  </tr>
+  <tr>
+    <td colspan="2">JUnit testing in CI pipeline (TDD) &nbsp;·&nbsp; API schema design &nbsp;·&nbsp; Cut deployment time by <b>40%</b></td>
+  </tr>
+</table>
 
 ---
 
-### Projects
+### 🚀 Projects
 
-| Project | Stack | Highlights |
-|---|---|---|
-| [**Gmail AI Assistant**](https://github.com/anway287/gmail-ai-assistant) | React, Node.js, HuggingFace, Gmail API | OAuth 2.0 · Mistral-7B generates 3 reply drafts per email · feedback loop |
-| [**QueueSense**](https://github.com/anway287/QueueSense) | Flask, SQLite, Prophet, XGBoost, Leaflet.js | Crowdsourced wait-time predictions · saved users ~35 min/week |
-| [**ReliOps**](https://github.com/anway287/ReliOps) | TypeScript | Reliability operations tooling |
-| [**Amazon Clone**](https://github.com/anway287/Amazon-Project) | Node.js, Express, MongoDB, Tailwind, JWT | Full-stack eCommerce · cart, orders, auth, Jasmine tests |
-| [**Anime Sentiment Tracker**](https://github.com/anway287/Anime-Popularity-Dashboard) | Python, Django, MongoDB, Docker | ETL pipeline · 8,000+ weekly data points · Matplotlib/Seaborn dashboards |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Stack</th>
+    <th>Highlights</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/anway287/gmail-ai-assistant"><b>Gmail AI Assistant</b></a></td>
+    <td><code>React</code> <code>Node.js</code> <code>HuggingFace</code> <code>Gmail API</code></td>
+    <td>OAuth 2.0 · Mistral-7B generates 3 reply drafts · feedback loop</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/anway287/QueueSense"><b>QueueSense</b></a></td>
+    <td><code>Flask</code> <code>SQLite</code> <code>Prophet</code> <code>XGBoost</code></td>
+    <td>Crowdsourced wait-time predictions · ~35 min/week saved</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/anway287/ReliOps"><b>ReliOps</b></a></td>
+    <td><code>TypeScript</code></td>
+    <td>Reliability operations tooling</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/anway287/Amazon-Project"><b>Amazon Clone</b></a></td>
+    <td><code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Tailwind</code></td>
+    <td>Full-stack eCommerce · cart, orders, auth, Jasmine tests</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/anway287/Anime-Popularity-Dashboard"><b>Anime Sentiment Tracker</b></a></td>
+    <td><code>Python</code> <code>Django</code> <code>MongoDB</code> <code>Docker</code></td>
+    <td>ETL pipeline · 8,000+ weekly data points · dashboards</td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anway287&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anway287&layout=compact&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=anway287&color=6E56CF&style=flat-square&label=Profile+Views)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/anway287?label=Followers&style=flat-square&color=6E56CF)](https://github.com/anway287?tab=followers)
 
-</div>
+<br/>
 
----
+*📍 Sunnyvale, CA &nbsp;·&nbsp; 📧 anwayatkekar1@gmail.com &nbsp;·&nbsp; Open to full-time roles*
 
-<div align="center">
-  <sub>📍 Sunnyvale, CA &nbsp;·&nbsp; Open to full-time roles &nbsp;·&nbsp; <a href="mailto:anwayatkekar1@gmail.com">anwayatkekar1@gmail.com</a></sub>
 </div>
