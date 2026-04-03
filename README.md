@@ -14,9 +14,9 @@
 
 ### About Me
 
-- MS in Computer Science — **Binghamton University** (May 2025)
+- MS in Computer Science **Binghamton University** (May 2025)
 - Currently based in **Sunnyvale, CA**
-- Open to full-time roles: **Backend · Full-Stack · Data Engineering**
+- Open to full-time roles: **Frontend · Backend · Full-Stack
 - I like building things that actually work at scale
 
 ---
