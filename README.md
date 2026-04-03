@@ -66,6 +66,11 @@
     <th>Highlights</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/anway287/Cosmos-API"><b>CosmosAI</b></a></td>
+    <td><code>Python</code> <code>FastAPI</code> <code>JavaScript</code></td>
+    <td>Stellar analysis · constellation mapping · exoplanet habitability using real astrophysics</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/anway287/gmail-ai-assistant"><b>Gmail AI Assistant</b></a></td>
     <td><code>React</code> <code>Node.js</code> <code>HuggingFace</code> <code>Gmail API</code></td>
     <td>OAuth 2.0 · Mistral-7B generates 3 reply drafts · feedback loop</td>
@@ -91,7 +96,6 @@
     <td>ETL pipeline · 8,000+ weekly data points · dashboards</td>
   </tr>
 </table>
-
 ---
 
 ### 💼 Experience
