@@ -80,11 +80,7 @@
     <td><code>Flask</code> <code>SQLite</code> <code>Prophet</code> <code>XGBoost</code></td>
     <td>Crowdsourced wait-time predictions · ~35 min/week saved</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/anway287/ReliOps"><b>ReliOps</b></a></td>
-    <td><code>TypeScript</code></td>
-    <td>Reliability operations tooling</td>
-  </tr>
+ 
   <tr>
     <td><a href="https://github.com/anway287/Amazon-Project"><b>Amazon Clone</b></a></td>
     <td><code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Tailwind</code></td>
