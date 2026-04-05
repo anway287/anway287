@@ -66,7 +66,7 @@
     <th>Highlights</th>
   </tr>
    <tr>
- <td><a href="https://github.com/anway287/hermetic-test-framework"><b>Hermetic Integration Test Framework</b></a></td>
+ <td><a href="https://github.com/anway287/Premier-League-Dashboard"><b>Premier League Dashboard</b></a></td>
 <td><code>Python</code> <code>pytest</code> <code>Terraform</code> <code>Grafana</code> <code>Docker</code></td>
 <td>Hermetic pytest framework · isolated mock simulators for S3/DynamoDB/SNS · Terraform-managed test envs · Grafana dashboard tracking pass rates &amp; flakiness trends</td>
 
