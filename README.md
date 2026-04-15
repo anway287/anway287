@@ -121,6 +121,6 @@
 
 <br/>
 
-*📍 Sunnyvale, CA &nbsp;·&nbsp; 📧 anwayatkekar1@gmail.com &nbsp;·&nbsp; Open to full-time roles*
+* &nbsp;·&nbsp; 📧 anwayatkekar1@gmail.com &nbsp;·&nbsp; Open to full-time roles*
 
 </div>
